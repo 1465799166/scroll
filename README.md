@@ -1,6 +1,6 @@
 # scroll
 
-> A Vue.js project
+>基于better-scroll的用于vue的scroll组件
 
 ## Build Setup
 
